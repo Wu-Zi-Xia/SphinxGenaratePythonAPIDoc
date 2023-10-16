@@ -1,0 +1,2 @@
+# SphinxGenaratePythonAPIDoc
+bat脚本采用Sphinx流程化生成Python的帮助文档
