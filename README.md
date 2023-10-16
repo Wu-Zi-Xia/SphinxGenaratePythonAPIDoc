@@ -34,3 +34,5 @@ pip install sphinx_rtd_theme(如果需要无网络连接安装，请搜索教程
 
 
   注意：如果修改了sphinx的配置文件（conf.py），需要将整个sphinx工程目录（D:\SphinxDemo）删除掉再重新生成
+
+  CallGenerateAPIDoc是调用脚本的起始脚本
